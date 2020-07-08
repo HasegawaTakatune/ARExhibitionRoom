@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/PlanetExhibition.unity
-    guid: 60dbb42e10172324b8cfd1034e86a259
-  - enabled: 1
     path: Assets/Scenes/CarExhibition.unity
     guid: 15b27189c55729c409069607fbb2ed42
+  - enabled: 1
+    path: Assets/Scenes/PlanetExhibition.unity
+    guid: 60dbb42e10172324b8cfd1034e86a259
   m_configObjects: {}
